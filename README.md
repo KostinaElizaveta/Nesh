@@ -1,5 +1,7 @@
 # Nesh
-Homework #2
+Homework #2  [![Build Status](https://travis-ci.org/KostinaElizaveta/Nesh.svg?branch=master)](https://travis-ci.org/KostinaElizaveta/Nesh)
+
+
 Проект Nesh создан для исследования биматричных игр на устойчивость по Нэшу и оптимальность по Парето.
 Входные данные задаются в виде матрицы и введены в коде программы,на консоли пользователь может выбрать один из 5 пунктов: 
 1) дилемма заключенного;
