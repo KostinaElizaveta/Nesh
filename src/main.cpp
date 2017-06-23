@@ -8,7 +8,6 @@ int main()
 	bool flag = true;
 	int i, a;
 	setlocale(LC_ALL, "Russian");
-	SetConsoleOutputCP(1251);
 
 
 	do {
@@ -80,8 +79,8 @@ int main()
 			}
 		}
 	} while (!flag);
-
-	system("pause");
+	
+	getch();
 	return 0;
 }
 
