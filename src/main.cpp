@@ -80,7 +80,6 @@ int main()
 		}
 	} while (!flag);
 	
-	getch();
 	return 0;
 }
 
