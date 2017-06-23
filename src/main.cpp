@@ -1,6 +1,5 @@
 #include "matrix.h"
 #include <iostream>
-#include <windows.h>
 
 using namespace std;
 
